@@ -1,4 +1,4 @@
-## Oiii eu sou o Vinícius Valim, Desenvolvedor Front-End web
+## Oi eu sou o Vinícius Valim, Desenvolvedor Front-End web
 <div align="center">
   <a href="https://github.com/ViniValim">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=ViniValim&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
